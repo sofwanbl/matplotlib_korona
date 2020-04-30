@@ -1,0 +1,5 @@
+Keterangan Data :
+Kolom pertama : Tanggal di Bulan April
+Kolom kedua : Jumlah Kasus Baru
+Kolom ketiga :Jumlah meninggal
+Kolom keempat : Jumlah sembuh
